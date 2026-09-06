@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**NiloofarM61/NiloofarM61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student interested in software development, object-oriented programming, and computational projects.
 
-Here are some ideas to get you started:
+## Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proteus Simulator — C++ / OOP
+
+A team project developed as part of an Object-Oriented Programming course, implementing a circuit-simulation environment inspired by Proteus.
+
+**My contributions included:**
+
+* Development and modification of `Project7.cpp`
+* Development and modification of `Project8.cpp`
+* Development and modification of `Project9.cpp`
+* Contributions to the project's Persian documentation (`README_FA.txt`)
+
+**Role:** Team Contributor
+**Language:** C++
+**Repository:** [Proteus-Simulator](https://github.com/AidaAriafar/Proteus-Simulator)
+
+My contributions can be verified directly through the commit history of the original team repository.
+
